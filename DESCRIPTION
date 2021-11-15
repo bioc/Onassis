@@ -1,5 +1,5 @@
 Package: Onassis
-Version: 1.17.0
+Version: 1.17.1
 Date: 2020-09-01
 Title: OnASSIs Ontology Annotation and Semantic SImilarity software
 Author: Eugenia Galeota
@@ -21,3 +21,4 @@ Suggests: BiocStyle, rmarkdown, htmltools, org.Hs.eg.db, gplots, GenomicRanges, 
 Encoding: UTF-8
 LazyData: yes
 biocViews: Annotation, DataImport, Clustering, Network, Software, GeneTarget
+PackageStatus: Deprecated
